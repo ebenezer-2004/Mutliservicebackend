@@ -118,7 +118,7 @@
         <div class="card my-5">
           <div class="card-body">
             <div class="text-center">
-              <a href="#"><img src="../assets/images/logo-dark.svg" alt="img"></a>
+              <a href="#"><img src="{{ asset('assets/2nmultiservice_logo.png') }}" alt="img" style="height: 70px"></a>
               <div class="d-grid my-3">
                
               </div>
